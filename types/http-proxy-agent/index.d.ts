@@ -8,7 +8,6 @@
 
 import { Agent } from 'http';
 import { Url } from 'url';
-
 declare class HttpProxyAgent extends Agent {
     constructor(options: string | Url);
 
@@ -16,4 +15,4 @@ declare class HttpProxyAgent extends Agent {
     secureProxy: boolean;
 }
 
-export = HttpProxyAgent;
+export default HttpProxyAgent;

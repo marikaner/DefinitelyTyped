@@ -1,4 +1,4 @@
-import Agent = require('http-proxy-agent');
+import Agent from 'http-proxy-agent';
 
 // $ExpectType HttpProxyAgent
 new Agent('url');
