@@ -2,6 +2,7 @@
 // Project: https://github.com/TooTallNate/node-http-proxy-agent
 // Definitions by: mrmlnc <https://github.com/mrmlnc>
 //                 steprescott <https://github.com/steprescott>
+//                 marikaner <https://github.com/marikaner>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 /// <reference types="node"/>
