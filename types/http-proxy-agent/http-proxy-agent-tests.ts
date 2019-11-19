@@ -6,6 +6,7 @@ new Agent({});
 new Agent({ host: 'url' });
 
 new Agent({}).proxy;
+
 new Agent({}).secureProxy;
 
 // $ExpectError
